@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CodeTop.iml" filepath="$PROJECT_DIR$/.idea/CodeTop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/LRUCache/LRUCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findKthLargest/findKthLargest.iml" filepath="$PROJECT_DIR$/findKthLargest/findKthLargest.iml" />
       <module fileurl="file://$PROJECT_DIR$/lengthOfLongestSubstring/lengthOfLongestSubstring.iml" filepath="$PROJECT_DIR$/lengthOfLongestSubstring/lengthOfLongestSubstring.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverseList/reverseList.iml" filepath="$PROJECT_DIR$/reverseList/reverseList.iml" />
     </modules>
