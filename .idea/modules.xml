@@ -6,10 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/LRUCache/LRUCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/findKthLargest/findKthLargest.iml" filepath="$PROJECT_DIR$/findKthLargest/findKthLargest.iml" />
       <module fileurl="file://$PROJECT_DIR$/lengthOfLongestSubstring/lengthOfLongestSubstring.iml" filepath="$PROJECT_DIR$/lengthOfLongestSubstring/lengthOfLongestSubstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxSubArray/maxSubArray.iml" filepath="$PROJECT_DIR$/maxSubArray/maxSubArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mergeTwoLists/mergeTwoLists.iml" filepath="$PROJECT_DIR$/mergeTwoLists/mergeTwoLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverseKGroup/reverseKGroup.iml" filepath="$PROJECT_DIR$/reverseKGroup/reverseKGroup.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverseList/reverseList.iml" filepath="$PROJECT_DIR$/reverseList/reverseList.iml" />
       <module fileurl="file://$PROJECT_DIR$/sortArray/sortArray.iml" filepath="$PROJECT_DIR$/sortArray/sortArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/threeSum/threeSum.iml" filepath="$PROJECT_DIR$/threeSum/threeSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoSum/twoSum.iml" filepath="$PROJECT_DIR$/twoSum/twoSum.iml" />
     </modules>
   </component>
 </project>
